@@ -7,9 +7,7 @@ author:     "Zoiphy"
 header-img: "img/in-post/2018-01-01.jpg"
 catalog: true
 tags:
-    - 生活
     - 读书
-    - 《孤独六讲》
 ---
 
 > 其实我并没有太多期待 <br>毕竟一生很短少有圆满

@@ -6,9 +6,7 @@ author:     "Zoiphy"
 header-img: "img/in-post/2018-02-07.jpg"
 catalog: true
 tags:
-    - 生活
     - 读书
-    - 《悉达多》
 ---
 
 > 若教眼底无离恨，不信人间有白头

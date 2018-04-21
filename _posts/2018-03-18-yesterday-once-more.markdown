@@ -6,7 +6,6 @@ author:     "Zoiphy"
 header-img: "img/in-post/2018-03-18.png"
 catalog: true
 tags:
-    - 生活
     - 音乐
 ---
 
