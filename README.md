@@ -1,9 +1,16 @@
-# HuxBlog Boilerplate
+jekyll-theme-solid
+=================
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+A simple and clean jekyll theme without javascript.
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+Online Demo: <https://mazhuang.org/jekyll-theme-solid>
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+## Screenshots
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+* Home page
+
+  ![home page](./images/screenshots/home.png)
+
+* Post page
+
+  ![post page](./images/screenshots/posts.png)
